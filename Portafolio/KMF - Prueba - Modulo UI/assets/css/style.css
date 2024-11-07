@@ -90,7 +90,7 @@
     padding: 1rem;
     box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.6);
     width: 300px;
-    height: 400px;
+    height: 430px;
 }
 .card-btn{
     background-color:var(--clr3); /* Color de fondo del botón */
@@ -210,6 +210,7 @@
 
     a,ul,li{
         text-decoration: none;
+        color: var(--clr2);
     }
 
     h1{
