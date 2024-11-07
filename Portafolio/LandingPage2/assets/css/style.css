@@ -1,0 +1,28 @@
+.cabecera {
+    background-image: url("../img/background.png"); 
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.cabecera-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.cabecera h1 {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+}
+
+.cabecera h2 {
+    font-size: 1.7em;
+    margin-bottom: 0.5em;
+}
+
+.cabecera p {
+    font-size: 1.2em;
+    margin-bottom: 1.5em;
+}

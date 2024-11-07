@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.cabecera {
+    background-image: url("../img/background.png"); 
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.cabecera-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.cabecera h1 {
+    font-size: 5em;
+    margin-bottom: 0.5em;
+}
+
+.cabecera h2 {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+}
+
+.cabecera p {
+    font-size: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+.productos {
+    padding: 50px;
+    text-align: center; 
+}
+
+.contenedor-productos {
+    width: 80%; 
+    margin: 0 auto; 
+}
+
+.productos h2 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+.producto {
+    display: inline-block; 
+    width: 30%; 
+    margin: 1.5%; 
+    vertical-align: top; 
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.producto img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+footer a {
+    color: white;
+}
